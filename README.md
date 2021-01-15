@@ -4,7 +4,7 @@ Eine mobile Applikation, die als Nachschlagwerk zum Blei-/Zinngiesen dient.
 
 Erhältlich für Android 4.x - 11.
 
-Link: ---folgt---
+Link: https://play.google.com/store/apps/details?id=com.develobba.bleigiessen_lexikon
 
 # Datenschutzerklärung
 
